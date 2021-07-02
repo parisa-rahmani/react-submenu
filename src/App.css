@@ -19,7 +19,7 @@
   justify-content: center;
   align-items: center;
 }
-.nav-list button {
+.nav-list .link-btn {
   padding: 0.7rem 2rem;
   border: none;
   outline: none;
@@ -48,4 +48,8 @@
 .show {
   opacity: 1;
   visibility: visible;
+}
+
+.submenu-link {
+  display: block;
 }
